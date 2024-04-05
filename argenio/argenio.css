@@ -1,0 +1,26 @@
+body{
+    background-color: lightblue;
+}
+
+
+h1{
+    text-align: center;
+    font-family: cursive;
+   
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.paragrap{
+    padding-left: 150px;
+    text-align: center;
+    padding-right: 150px;
+}
+#des {
+   border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px;
+}
